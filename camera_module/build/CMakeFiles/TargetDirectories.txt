@@ -1,0 +1,3 @@
+/home/bitcrabby/image_processing_project/AtozReader/camera_operation/build/CMakeFiles/spectOps.dir
+/home/bitcrabby/image_processing_project/AtozReader/camera_operation/build/CMakeFiles/edit_cache.dir
+/home/bitcrabby/image_processing_project/AtozReader/camera_operation/build/CMakeFiles/rebuild_cache.dir
